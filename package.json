@@ -1,0 +1,29 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "Warning: This is WIP",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckir/vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckir/vercel/issues"
+  },
+  "homepage": "https://github.com/ckir/vercel#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.1.0"
+  },
+  "dependencies": {
+    "ckir_weblib": "github:ckir/weblib"
+  }
+}
