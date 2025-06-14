@@ -1,1 +1,3 @@
-console.log('Hello World');
+export function GET(request) {
+  return new Response('Hello from Vercel!');
+}
